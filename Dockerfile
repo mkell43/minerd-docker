@@ -3,7 +3,7 @@
 
 FROM          ubuntu:16.04
 RUN           apt-get update && apt-get install -y git make automake build-essential libcurl4-openssl-dev
-RUN           git clone git@github.com:OhGodAPet/cpuminer-multi.git
+RUN           git clone https://github.com/OhGodAPet/cpuminer-multi.git
 RUN           cd cpuminer-multi && ./autogen.sh && ./configure CFLAGS="-O3" && make
 WORKDIR       /cpuminer-multi
 ENTRYPOINT    ["./minerd"]
