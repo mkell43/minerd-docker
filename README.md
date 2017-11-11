@@ -25,5 +25,3 @@ You might notice the `-t` at the end there.  That limits the number of threads t
 \* The link used was an affiliate link.  You can go there without the affiliate code via this link. -> [HitBTC](https://hitbtc.com/)
 
 \** The link used was was an affiliate link.  You can go there without the affiliate code via this link. -> [MinerGate](https://minergate.com/)
-
-If you want to tip me directly, send some love in XMR to `4Adq5EZWCJ2jh4kttRSoa3KegN3K3KVnkZdATgd1XQcnZt7cJmggXHkjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3c7HGvC` or in BTC to `1MiKZVAwAB6Pgd6g5au2LLvswLYCrSsPKk`.
